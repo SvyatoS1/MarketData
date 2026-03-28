@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="compose.yaml" />
+  </Folder>
+  <Project Path="MarketData.Api/MarketData.Api.csproj" />
+  <Project Path="MarketData.Application/MarketData.Application.csproj" />
+  <Project Path="MarketData.Domain/MarketData.Domain.csproj" />
+  <Project Path="MarketData.Infrastructure/MarketData.Infrastructure.csproj" />
+</Solution>
